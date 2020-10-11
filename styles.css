@@ -1,0 +1,60 @@
+.about-us {
+  padding-top: 5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  padding-bottom: 5rem;
+  text-align: center;
+  background-image: linear-gradient(to bottom, #ff677d, #ffae8f);
+  color: white;
+}
+.abt-us-h1 {
+  padding-bottom: 3rem;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
+
+.blackpantherp7-docs {
+  padding-top: 3rem;
+  margin-right: 13rem;
+  margin-left: 13rem;
+}
+
+.manikanta-docs {
+  padding-top: 3rem;
+  margin-left: 13rem;
+  margin-right: 13rem;
+}
+
+.hemagna-docs {
+  padding-top: 3rem;
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+
+.franklyn-docs {
+  padding-top: 3rem;
+  margin-left: 13rem;
+  margin-right: 13rem;
+}
+
+.helican-explanation {
+    color: rgb(157, 40, 253);
+}
+
+.helican-explanation:hover {
+    color: rgb(157, 40, 253);
+    text-decoration: underline;
+}
+
+.about-the-channel {
+    padding-top: 6rem;
+    margin-left: 13rem;
+    margin-right: 13rem;
+}
+
+.icon:hover {
+    font-size: 17px;
+}
